@@ -7,6 +7,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuow" />
 </a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siyo0715&layout=compact&theme=dracula)
+
 <!--
 **sakuow/sakuow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
