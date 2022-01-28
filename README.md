@@ -1,4 +1,4 @@
-### Self Introduction
+### 自己紹介
 
 | No. | key | value |
 |---- | ---- | ---- |
