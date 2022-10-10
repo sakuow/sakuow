@@ -6,7 +6,7 @@
 | 2. | 出身 | 東北 |
 | 3. | 経歴 | - 商業高校卒業(2018.3)<br /> - 製薬会社へ勤務 (2018.4 ~ 2021.7)<br /> - Ruby、Ruby on Rails、Pythonを学習(2021.9 ~ 2021.12)|
 | 4. | 制作物/<br /> ポートフォリオ | marks(http://3.113.58.72/)<br />写真投稿、共有サイト |
-| 5. | 学習中 | ・Ruby ・Ruby on Rails ・PHP ・Python |
+| 5. | 学習中 | ・Ruby ・Ruby on Rails ・Java ・PHP(学習中) |
 | 6. | 希望勤務地 | 全国どこででも働けます!  | 
 
 <p align="left"> 
